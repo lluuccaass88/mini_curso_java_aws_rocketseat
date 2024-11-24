@@ -1,0 +1,10 @@
+
+	java:S112."FDefine and throw a dedicated exception instead of using a generic one.(ñ¤şÌüÿÿÿÿ8Áæ¤â´2J$c009f98b-ec71-41d5-aa0a-a3f67ebef437
+	java:S112C"FDefine and throw a dedicated exception instead of using a generic one.(‡Æ›†úÿÿÿÿ8Âæ¤â´2J$d09294da-5701-402c-ae04-098c377d1bc4
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ïíöóÿÿÿÿÿ8²­šâ´2J$0f56df7e-b614-411e-8fb6-16b41c22e8eb
+€
+java:S6242"8Set the credentials provider explicitly on this builder.(•ïúÿÿÿÿÿ8Ì­šâ´2J$af912352-665d-4cbd-b001-e1abf77c26fe
+r
+java:S6241"*Set the region explicitly on this builder.(•ïúÿÿÿÿÿ8Í­šâ´2J$c8c77fea-dfb5-412f-8924-9945154b041a
+œ
+java:S1128	"YRemove this unused import 'software.amazon.awssdk.services.s3.model.PutObjectAclRequest'.(® ÔÊ8´é£â´2J$750bf940-f4e1-46ac-9150-069b4537fcc9
